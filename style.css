@@ -242,18 +242,18 @@
     text-align: center;
   }
   
-  div.rotation-right {
+  /* div.rotation-right {
     transform: rotateX(29deg) rotateY(51deg);
-  }
+  } */
   
   div.changing-position {
     position: relative;
   }
   
-  div.changing-position-details {
+  /* div.changing-position-details {
     position: relative;
     transform: rotateX(345deg) rotateY(53deg);
-  }
+  } */
   
   h5.day {
     font-size: 30px;
@@ -308,18 +308,18 @@
     position: relative;
     width: 30rem;
     margin-top: 1rem;
-    transform: rotateX(57deg) rotateZ(56deg);
+    /* transform: rotateX(57deg) rotateZ(56deg); */
     transition: 0.4s ease-in-out transform, 0.4s ease-in-out box-shadow;
   }
   
   div.rotate-text {
-    transform: rotateX(10deg) rotateY(21deg);
+    /* transform: rotateX(10deg) rotateY(21deg); */
     position: relative;
     top: 1rem;
   }
   
   div.moving-next-days {
-    transform: rotateZ(4deg) rotateY(-48deg) rotateX(55deg);
+    /* transform: rotateZ(4deg) rotateY(-48deg) rotateX(55deg); */
     position: relative;
   }
   
